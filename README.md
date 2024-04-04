@@ -1,6 +1,6 @@
 # Talks
 
-In this repository, you will find the resources for the blog posts and talks I have given at various conferences and meetups.
+In this repository, you will find the resources for the blog posts and talks [Jose Blanquicet](https://www.linkedin.com/in/joseblanquicet/) has given at various conferences and meetups.
 
 ## 2024
 
